@@ -25,7 +25,7 @@ function checkInputs() {
     //for Checkbox
     const GenderValue = document.querySelector('[name="gender"]:checked');
     const SkillsValue = document.querySelector('[name="Skills"]:checked');
-    const AgreeValue  = document.querySelector('[name="agree"]:checked');
+    const AgreeValue  = document.querySelector('[name="Agree"]:checked');
 
     //to Validate firstnameValue
     if (fnamevalue == "") {
