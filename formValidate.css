@@ -10,7 +10,7 @@
   filter: drop-shadow(8px 8px 10px green); 
 }  */
 body {
-    background: url('/FormValidation/img/2.webp') no-repeat  bottom right;
+    background: url('./img/2.webp') no-repeat  bottom right;
     /* filter: drop-shadow(8px 8px 10px rgb(255, 179, 16)); */
     background-size: cover;
     margin: 0;
